@@ -1,6 +1,6 @@
 {
   "name": "@muhammedadel/mojs",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "MoJS liberary give you some future to work easily with javascript objects",
   "main": "index.js",
   "scripts": {
