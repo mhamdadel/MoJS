@@ -1,0 +1,20 @@
+{
+  "name": "mojs",
+  "version": "1.0.0",
+  "description": "MoJS liberary give you some future to work easily with javascript objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascropt",
+    "MoJS",
+    "objects",
+    "build",
+    "strict",
+    "objects"
+  ],
+  "author": "Muhammed Adel Hamed",
+  "license": "MIT"
+}
