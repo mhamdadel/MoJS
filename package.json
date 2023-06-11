@@ -1,5 +1,5 @@
 {
-  "name": "mojs",
+  "name": "@muhammedadel/mojs",
   "version": "1.0.0",
   "description": "MoJS liberary give you some future to work easily with javascript objects",
   "main": "index.js",
@@ -16,5 +16,16 @@
     "objects"
   ],
   "author": "Muhammed Adel Hamed",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhamdadel/MoJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mhamdadel/MoJS/issues"
+  },
+  "homepage": "https://github.com/mhamdadel/MoJS#readme"
 }
